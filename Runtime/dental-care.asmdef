@@ -1,12 +1,12 @@
 {
-    "name": "com.appidea.MiniGamePlatform.Dental_Care",
-    "rootNamespace": "com.appidea.MiniGamePlatform.Dental_Care",
+    "name": "com.appidea.MiniGamePlatform.YOUR_MINI_GAME_NAME",
+    "rootNamespace": "com.appidea.MiniGamePlatform.YOUR_MINI_GAME_NAME",
     "references": [
         "com.appidea.MiniGamePlatform.CommunicationAPI",
         "Unity.Addressables",
         "Unity.2D.Animation.Runtime",
-        "Unity.Mathematics",
-        "Unity.InputSystem"
+        "Unity.InputSystem",
+        "Unity.Mathematics"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
