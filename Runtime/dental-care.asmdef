@@ -1,6 +1,6 @@
 {
-    "name": "com.appidea.MiniGamePlatform.YOUR_MINI_GAME_NAME",
-    "rootNamespace": "com.appidea.MiniGamePlatform.YOUR_MINI_GAME_NAME",
+    "name": "com.appidea.MiniGamePlatform.Dental_Care",
+    "rootNamespace": "com.appidea.MiniGamePlatform.Dental_Care",
     "references": [
         "com.appidea.MiniGamePlatform.CommunicationAPI",
         "Unity.Addressables",
